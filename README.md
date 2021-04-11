@@ -9,3 +9,5 @@
   <li> Ensure wallet's safety </li>
   <li> Improve migrations file </li>
   <li> Learning about Orderbooks </li>
+  <li> Creating a DEX </li>
+  <li> Conducting Tests </li>
