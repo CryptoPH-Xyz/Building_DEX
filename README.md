@@ -3,7 +3,7 @@
 <h1> Building my own Decentralized Exchange (DEX) </h1>
   
 <h3> This project will follow multiple steps and be built from the ground up </h3>
-
+<p> This project utilizes the openzeppelin library for ERC20 Tokens </p>
 <ol> Steps to follow
   <li> Build a Wallet </li>
   <li> Ensure wallet's safety </li>
