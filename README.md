@@ -8,6 +8,7 @@
   <li> Build a Wallet </li>
   <li> Ensure wallet's safety </li>
   <li> Improve migrations file </li>
-  <li> Learning about Orderbooks </li>
   <li> Creating a DEX </li>
-  <li> Conducting Tests </li>
+  <li> Wallet Tests </li>
+  <li> Limit Order Tests </li>
+  <li> Market Order Tests </li>
