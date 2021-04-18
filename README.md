@@ -14,12 +14,13 @@
   <li> Wallet Tests </li>
   <li> Limit Order Tests </li>
   <li> Market Order Tests </li>
+</ol>
   
 <p> NOTE: This DEX uses order books which is viewed as old technology in creating DEXs </p>
 
 <h3> Improving DEX </h3>
 <p> The main idea is to create a DEX that protects smaller traders (trading with a small amount of money) from big traders. This can be achieved through:
-
+<ul>
 Having divisions within the platform based on the total ETH balance of an address (This includes the value of tokens owned in ETH)
 The lowest division will have a maximum value of ETH they are allowed to trade
 The highest division will have a minimum value of ETH they are allowed to trade
