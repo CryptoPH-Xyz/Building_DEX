@@ -21,14 +21,16 @@
 <h3> Improving DEX </h3>
 <p> The main idea is to create a DEX that protects smaller traders (trading with a small amount of money) from big traders. This can be achieved through:
 <ul>
-Having divisions within the platform based on the total ETH balance of an address (This includes the value of tokens owned in ETH)
-The lowest division will have a maximum value of ETH they are allowed to trade
-The highest division will have a minimum value of ETH they are allowed to trade
-Divisions in between will have both minimum and maximum value of ETH they are allowed to trade
-I was thinking of adding tokens only accessible to lower divisions to protect them from massive pump-and-dump moves from a big trader
+  <li> Having divisions within the platform based on the total ETH balance of an address (This includes the value of tokens owned in ETH) </li>
+  <li> The lowest division will have a maximum value of ETH they are allowed to trade </li>
+  <li> The highest division will have a minimum value of ETH they are allowed to trade </li>
+  <li> Divisions in between will have both minimum and maximum value of ETH they are allowed to trade </li>
 
-Introducing Staking
-Now that the smaller traders are protected, we still want our big traders to keep using the platform by allowing them to stake their tokens (incentives to big traders)
+<p> I was thinking of adding tokens only accessible to lower divisions to protect them from massive pump-and-dump moves from a big trader </p>
 
-Introduce staking privileges once a certain division is reached
-Add the percentage earned by staking when moving up on divisions </p>
+<h3> Introducing Staking </h3>
+<p> Now that the smaller traders are protected, we still want our big traders to keep using the platform by allowing them to stake their tokens (incentives to big traders) </p>
+<ul>
+  <li> Introduce staking privileges once a certain division is reached </li>
+  <li> Add the percentage earned by staking when moving up on divisions </li>
+</ul>
