@@ -25,6 +25,7 @@
   <li> The lowest division will have a maximum value of ETH they are allowed to trade </li>
   <li> The highest division will have a minimum value of ETH they are allowed to trade </li>
   <li> Divisions in between will have both minimum and maximum value of ETH they are allowed to trade </li>
+</ul>
 
 <p> I was thinking of adding tokens only accessible to lower divisions to protect them from massive pump-and-dump moves from a big trader </p>
 
